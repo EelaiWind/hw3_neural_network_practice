@@ -1,0 +1,5 @@
+# Download training and testing image data from https://www.cs.toronto.edu/~kriz/cifar.html
+# command: 
+#     $ wget https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
+#         or
+#     $ wget https://www.cs.toronto.edu/~kriz/cifar-10-binary.tar.gz

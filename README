@@ -1,0 +1,5 @@
+# DO NOT upload any CIFAR10 image data to your github repository
+#
+# list your packages in the virtualenv
+# command: 
+#     $ pip list > pip_packages.txt
